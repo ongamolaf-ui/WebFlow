@@ -1,0 +1,9 @@
+
+{
+  "name": "WebFlow Pro - Leder & Sport Webdesign",
+  "description": "Exklusive Webentwicklung spezialisiert auf die Lederindustrie, Handwerk und Sportvereine mit integriertem Client-Chat.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
